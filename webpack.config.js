@@ -4,6 +4,7 @@ import LiveReloadPlugin from "webpack-livereload-plugin";
 
 
 export default {
+    mode: "development",
     entry: "./src/client/index.js",
     output: {
         path: "/",

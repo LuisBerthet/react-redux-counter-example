@@ -1,0 +1,17 @@
+.idea
+staticfiles
+dump
+.ipynb_checkpoints
+__pycache__
+db.sqlite3
+*.log
+entrenamiento_base/
+.env
+.env*
+media
+node_modules/
+
+# Elastic Beanstalk Files
+.elasticbeanstalk/*
+!.elasticbeanstalk/*.cfg.yml
+!.elasticbeanstalk/*.global.yml
